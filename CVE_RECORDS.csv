@@ -1,0 +1,11 @@
+CVE-ID,Severity,CVSS,Affected Packages,CWE-ID
+CVE-2021-32628,HIGH,7.5,"redis-server, redis-tools",CWE-190
+CVE-2016-1585,CRITICAL,9.8,"apparmor, libapparmor1",CWE-254
+CVE-2021-20308,CRITICAL,9.8,"htmldoc, htmldoc-common",CWE-190
+CVE-2021-4048,CRITICAL,9.1,libblas3,CWE-125
+CVE-2022-36227,CRITICAL,9.8,libarchive13,CWE-476
+CVE-2021-3697,HIGH,7,"grub-common, grub-pc, grub-pc-bin, grub2-common",CWE-787
+CVE-2021-38091,HIGH,8.8,"libavcodec58, libavutil56, libswresample3",CWE-190
+CVE-2016-2781,MEDIUM,6.5,coreutils,CWE-20
+CVE-2016-9802,MEDIUM,5.3,"bluez, libbluetooth3",CWE-119
+CVE-2019-1563,LOW,3.7,libnode72,CWE-327
